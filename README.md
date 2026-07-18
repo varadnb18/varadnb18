@@ -8,7 +8,7 @@ Proven track record building RAG platforms, secure RBAC/JWT auth systems, and co
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/varad-nashikkar-36570a273" target="_blank">
+  <a href="https://www.linkedin.com/in/varad-nashikkar/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-VARAD--NASHIKKAR-0A66C2?style=for-the-badge&labelColor=4b5563&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:varadnashikkar06@gmail.com">
