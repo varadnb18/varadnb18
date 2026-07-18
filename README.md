@@ -1,21 +1,27 @@
-<h1 align="center">Hi there 👋, I'm Varad Nashikkar</h1>
-<h3 align="center">Full Stack Developer | AI/ML Enthusiast</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&fontSize=26&fontColor=22D3EE&fontAlignY=55&desc=&section=header" width="100%"/>
+</p>
+
+<p align="center">
+Full-stack engineer specialized in backend systems, REST APIs, and AI-integrated applications.<br/>
+Proven track record building RAG platforms, secure RBAC/JWT auth systems, and concurrency-safe booking flows.
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/varad-nashikkar-36570a273" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-VARAD--NASHIKKAR-0A66C2?style=for-the-badge&labelColor=4b5563&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:varadnashikkar06@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-VARADNASHIKKAR06%40GMAIL.COM-EA4335?style=for-the-badge&labelColor=4b5563&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/varadnb18" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-VARADNB18-181717?style=for-the-badge&labelColor=4b5563&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 🚀 Who I Am
 
 - 🎓 B.E. in Electronics and Telecommunication Engineering from Pune Institute of Computer Technology (CGPA: 8.92/10)
 - 💻 Full-stack developer with hands-on experience building RAG platforms, real-time computer vision apps, and secure booking/payment systems
@@ -120,15 +126,15 @@ A web-based system for managing 1,000–2,000 laboratory assets across departmen
 
 ### 📬 Contact Me
 
-<p>
+<p align="center">
   <a href="https://github.com/varadnb18" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-VARADNB18-181717?style=for-the-badge&labelColor=4b5563&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/varad-nashikkar-36570a273" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-VARAD--NASHIKKAR-0A66C2?style=for-the-badge&labelColor=4b5563&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:varadnashikkar06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-VARADNASHIKKAR06%40GMAIL.COM-EA4335?style=for-the-badge&labelColor=4b5563&logo=gmail&logoColor=white" />
   </a>
 </p>
 
