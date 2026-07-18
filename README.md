@@ -54,6 +54,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-Vector%20DB-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-4B8BBE?style=for-the-badge" />
 </p>
 
 **Databases & Tools**
@@ -69,7 +70,8 @@
 **Core Computer Science**
 <p>
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database%20Management%20System-333333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Operating%20Systems-333333?style=for-the-badge" />
 </p>
 
@@ -106,23 +108,6 @@ A web-based system for managing 1,000–2,000 laboratory assets across departmen
 - Built and validated secure REST APIs following MVC architecture, optimized with **Redis caching** to reduce database load and improve response times
 - **Tech:** REST APIs, JWT, RBAC, Redis, Postman
 - 🔗 [GitHub](https://github.com/VARADNB18/DEADSTOCK-MANAGEMENT-SYSTEM)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=varadnb18&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadnb18&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varadnb18&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varadnb18&hide_border=true" />
-</p>
 
 ---
 
