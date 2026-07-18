@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Varad Nashikkar</h1>
-<h3 align="center">Full Stack Developer | AI/ML Enthusiast | Electronics & Telecommunication Engineering Student</h3>
+<h3 align="center">Full Stack Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/varad-nashikkar-36570a273" target="_blank">
@@ -17,10 +17,9 @@
 
 ### 🚀 About Me
 
-- 🎓 B.E. in Electronics and Telecommunication Engineering at Pune Institute of Computer Technology (CGPA: 8.92/10)
+- 🎓 B.E. in Electronics and Telecommunication Engineering from Pune Institute of Computer Technology (CGPA: 8.92/10)
 - 💻 Full-stack developer with hands-on experience building RAG platforms, real-time computer vision apps, and secure booking/payment systems
 - 🔐 Strong focus on backend architecture — RBAC systems, JWT authentication, REST APIs, and concurrency-safe design
-- 🏆 Ranked 5th nationally at INC (Inter-College National Competition), a national-level hackathon organized by PICT
 - 🎯 Career objective: To build scalable, production-grade full-stack and AI-integrated applications, and grow as a software engineer solving real-world problems with clean architecture and efficient systems
 - 📫 Open to Software Engineering / Full Stack Developer opportunities
 
