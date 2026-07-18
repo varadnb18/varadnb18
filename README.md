@@ -2,13 +2,13 @@
 <h3 align="center">Full Stack Developer | AI/ML Enthusiast | Electronics & Telecommunication Engineering Student</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/varad-nashikkar-36570a273" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:varadnashikkar06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
+  <a href="https://github.com/varadnb18" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -77,51 +77,51 @@
 
 ### 🌟 Featured Projects
 
-#### 🤖 [DocMind AI](https://github.com/YOUR-GITHUB-USERNAME) — *February 2026*
+#### 🤖 [DocMind AI](https://github.com/varadnb18/DocMind-AI.git) — *February 2026*
 A full-stack Retrieval-Augmented Generation (RAG) platform that lets users upload private documents and chat with them in natural language.
 - Extracted text from PDFs/Word files and chunked it using `tiktoken`, storing vector embeddings in **FAISS** with text/metadata in **PostgreSQL**
 - Ran cosine similarity search to retrieve top-5 relevant chunks and generated context-grounded answers using the **Google Gemini API**
 - **Tech:** React, FastAPI, JWT, PyPDF2, python-docx, FAISS, PostgreSQL, Google Gemini API
-- 🔗 [Live Demo](#) &nbsp;|&nbsp; [GitHub](#)
+- 🔗 [Live Demo](https://doc-mind-ai-henna.vercel.app/) &nbsp;|&nbsp; [GitHub](https://github.com/varadnb18/DocMind-AI.git)
 
-#### 🧘 [RehabBuddy](https://github.com/YOUR-GITHUB-USERNAME) — *October 2025*
+#### 🧘 [RehabBuddy](https://github.com/varadnb18/Techfiesta) — *October 2025*
 A real-time yoga pose correction web app running inference entirely client-side for low latency and zero server-side video transmission.
 - Extracted 33 3D body landmarks from 1,600 images using **OpenCV** and **MediaPipe**
 - Trained a custom **Keras** neural network to classify 6 yoga postures with **97.33% test accuracy**, exported to **TensorFlow.js** for real-time browser inference at 60 FPS
 - Built a "Geometric Math Gate" to cross-validate AI predictions using joint-angle geometry, plus Firebase auth/scoring and a Gemini-powered in-app chatbot
 - **Tech:** React, FastAPI, OpenCV, MediaPipe, Keras, TensorFlow.js, Firebase, Google Gemini API
-- 🔗 [Live Demo](#) &nbsp;|&nbsp; [GitHub](#)
+- 🔗 [Live Demo](https://techfiesta-sep18.vercel.app/) &nbsp;|&nbsp; [GitHub](https://github.com/varadnb18/Techfiesta)
 
-#### 🏔️ [Sahyadri Saathi](https://github.com/YOUR-GITHUB-USERNAME) — *June 2025*
+#### 🏔️ [Sahyadri Saathi](https://github.com/varadnb18/SAHYADRI-SAATHI) — *June 2025*
 A full-stack guide-booking platform connecting tourists with verified local trekking and heritage guides across Maharashtra.
 - Implemented secure **JWT + HTTP-only cookie** authentication with role-based access control for Tourist, Guide, and Admin roles
 - Built a booking system with **Stripe Checkout**, escrow-style payment handling, and refund support via Stripe Payment Intents
 - Prevented duplicate bookings and race conditions using **Redis distributed locks** and MongoDB uniqueness checks for concurrency-safe booking
 - **Tech:** React, Node.js, Express.js, MongoDB, Redis, JWT, Stripe
-- 🔗 [GitHub](#)
+- 🔗 [GitHub](https://github.com/varadnb18/SAHYADRI-SAATHI)
 
 #### 🏫 College Deadstock Management System — *Jan 2025 – Apr 2025 (Technical Intern, PICT)*
 A web-based system for managing 1,000–2,000 laboratory assets across departments, replacing manual paperwork processes.
 - Designed a 7-role RBAC system with JWT authentication supporting multi-level requisition approvals across three workflows (equipment requisition, asset onboarding, inter-lab transfers)
 - Built and validated secure REST APIs following MVC architecture, optimized with **Redis caching** to reduce database load and improve response times
 - **Tech:** REST APIs, JWT, RBAC, Redis, Postman
-- 🔗 [GitHub](#)
+- 🔗 [GitHub](https://github.com/VARADNB18/DEADSTOCK-MANAGEMENT-SYSTEM)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=varadnb18&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadnb18&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varadnb18&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varadnb18&hide_border=true" />
 </p>
 
 ---
@@ -137,17 +137,14 @@ A web-based system for managing 1,000–2,000 laboratory assets across departmen
 ### 📬 Contact Me
 
 <p>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
+  <a href="https://github.com/varadnb18" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/varad-nashikkar-36570a273" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:varadnashikkar06@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
