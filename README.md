@@ -85,12 +85,12 @@ Proven track record building RAG platforms, secure RBAC/JWT auth systems, and co
 ### 🌟 Featured Projects
 
 #### 🤖 [DocMind AI](https://github.com/varadnb18/DocMind-AI.git) — *February 2026*
-A full-stack Retrieval-Augmented Generation (RAG) platform that lets users upload private documents and chat with them in natural language.
-- Extracted text from PDFs/Word files and chunked it using `tiktoken`, storing vector embeddings in **FAISS** with text/metadata in **PostgreSQL**
-- Ran cosine similarity search to retrieve top-5 relevant chunks and generated context-grounded answers using the **Google Gemini API**
-- **Tech:** React, FastAPI, JWT, PyPDF2, python-docx, FAISS, PostgreSQL, Google Gemini API
+A full-stack **Retrieval-Augmented Generation (RAG)** platform that enables users to securely upload private documents and chat with them using natural language.
+- Extracted text from PDF and Word documents, split content using **LangChain's RecursiveCharacterTextSplitter**, generated embeddings with **GoogleGenerativeAIEmbeddings**, and stored vector embeddings in **FAISS** while persisting document text and metadata in **PostgreSQL**.
+- Retrieved the top-5 semantically similar document chunks using **LangChain Retriever** and **FAISS cosine similarity search**, then generated context-grounded responses using **ChatGroq**, ensuring answers were based only on the user's uploaded documents.
+- **Tech:** React, FastAPI, LangChain, JWT, PyPDF2, python-docx, FAISS, PostgreSQL, ChatGroq
 - 🔗 [Live Demo](https://doc-mind-ai-henna.vercel.app/) &nbsp;|&nbsp; [GitHub](https://github.com/varadnb18/DocMind-AI.git)
-
+  
 #### 🧘 [RehabBuddy](https://github.com/varadnb18/Techfiesta) — *October 2025*
 A real-time yoga pose correction web app running inference entirely client-side for low latency and zero server-side video transmission.
 - Extracted 33 3D body landmarks from 1,600 images using **OpenCV** and **MediaPipe**
